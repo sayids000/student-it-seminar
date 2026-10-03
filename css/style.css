@@ -1,0 +1,93 @@
+body {
+font-family: Tahoma;
+background-color: #ede7f6;
+margin: 20px;
+}
+
+main {
+width: 390px;
+margin: 0 auto;
+}
+
+h1 {
+color: #4527a0;
+text-align: center;
+}
+
+form {
+background-color: white;
+padding: 18px;
+border: 2px solid #4527a0;
+border-radius: 4px;
+}
+
+.group {
+margin-bottom: 14px;
+}
+
+label {
+display: block;
+margin-bottom: 5px;
+color: #311b92;
+font-weight: bold;
+}
+
+label.agree {
+font-weight: normal;
+}
+
+input {
+width: 220px;
+padding: 5px;
+border: 1px solid #7e57c2;
+}
+
+#terms {
+width: auto;
+}
+
+select {
+width: 232px;
+padding: 5px;
+border: 1px solid #7e57c2;
+}
+
+button {
+padding: 8px 16px;
+margin-right: 6px;
+background-color: #ff6d00;
+color: white;
+border: none;
+}
+
+.err {
+display: block;
+margin-top: 5px;
+color: red;
+font-size: 13px;
+}
+
+.note {
+display: block;
+margin-top: 5px;
+color: gray;
+font-size: 13px;
+}
+
+#successMessage {
+color: #2e7d32;
+text-align: center;
+}
+
+#registrationSummary {
+background-color: #d1c4e9;
+margin-top: 15px;
+padding: 14px;
+border: 2px solid #4527a0;
+border-radius: 4px;
+}
+
+#registrationSummary h2 {
+color: #311b92;
+margin-top: 0;
+}
